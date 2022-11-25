@@ -1,2 +1,3 @@
-# too_many_ores
-This is a mod for Minetest Game. It adds in total 53 new ores in your world. But only five of them have there own tools.
+Too many ores by TeufloV
+the necessary ores with tools are in orespremium(foldername: ores++)
+change the textures as you wish, because they are pretty crappy
